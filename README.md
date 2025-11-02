@@ -111,3 +111,27 @@ Your glucose and HbA1c values suggest elevated blood sugar levels.
 
 Suggested Next Steps:
 Reduce sugar intake, exercise daily, and consult an endocrinologist for guidance.
+
+
+
+---
+
+## 🔄 Future Enhancements
+- 🧩 Integration with real hospital/LIS systems  
+- 🧠 Use of LLMs for personalized report summarization  
+- 🌍 Real-time multilingual translation (English ↔ regional languages)  
+- 📈 Continuous model improvement using doctor feedback  
+- 💬 Chatbot interface for patient Q&A  
+- 🔔 Automated health reminders via email/SMS  
+
+---
+
+## ❤️ Built For
+**Loop × IIT Bombay Hackathon 2025**  
+Theme: *“Information that makes sense” & “People and technology working together”*  
+
+**Team: ML PAGLUS**  
+**Ashwin Mankar**
+**Vishal Patel**
+
+
